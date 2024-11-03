@@ -82,3 +82,7 @@ This document tracks engineering milestones, experiment logs, parameter optimiza
 - **Focus**: docs: add threshold tuning documentation for spam classification
 - **Technical Summary**: Set decision threshold to 0.65 to minimize false positives on ham emails.
 
+### Milestone Log - 2024-11-03 (19:22)
+- **Focus**: docs: update Multinomial Naive Bayes precision scores
+- **Technical Summary**: Documented 98.2% precision on SMS/Email spam test split.
+
