@@ -150,3 +150,7 @@ This document tracks NLP tokenization experiments, n-gram feature extraction ben
 - **Focus**: refactor: optimize TF-IDF vectorization parameters
 - **Technical Summary**: Configured max_features=3000, ngram_range=(1,2), stop_words='english'.
 
+### Milestone Log - 2024-12-06 (19:29)
+- **Focus**: docs: add notes on text preprocessing and stemming
+- **Technical Summary**: Integrated PorterStemmer and regex tokenization for raw message bodies.
+
