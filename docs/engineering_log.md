@@ -202,3 +202,7 @@ This document tracks NLP tokenization experiments, n-gram feature extraction ben
 - **Focus**: docs: document decision threshold tuning for spam filter
 - **Technical Summary**: Set decision threshold to 0.65 to minimize false positives on legitimate emails.
 
+### Milestone Log - 2024-12-24 (10:50)
+- **Focus**: docs: update Multinomial Naive Bayes precision scores
+- **Technical Summary**: Documented 98.2% precision on SMS/Email spam test split.
+
