@@ -278,3 +278,7 @@ This document tracks engineering milestones, experiment logs, parameter optimiza
 - **Focus**: perf: vectorize confusion matrix calculation
 - **Technical Summary**: Optimized evaluation pipeline for binary classification.
 
+### Milestone Log - 2024-12-27 (19:16)
+- **Focus**: docs: add threshold tuning documentation for spam classification
+- **Technical Summary**: Set decision threshold to 0.65 to minimize false positives on ham emails.
+
