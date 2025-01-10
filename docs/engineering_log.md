@@ -286,3 +286,7 @@ This document tracks NLP tokenization experiments, n-gram feature extraction ben
 - **Focus**: docs: update Multinomial Naive Bayes precision scores
 - **Technical Summary**: Documented 98.2% precision on SMS/Email spam test split.
 
+### Milestone Log - 2025-01-10 (10:38)
+- **Focus**: refactor: optimize TF-IDF vectorization parameters
+- **Technical Summary**: Configured max_features=3000, ngram_range=(1,2), stop_words='english'.
+
