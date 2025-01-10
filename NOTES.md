@@ -326,3 +326,7 @@ This document tracks engineering milestones, experiment logs, parameter optimiza
 - **Focus**: docs: update Multinomial Naive Bayes precision scores
 - **Technical Summary**: Documented 98.2% precision on SMS/Email spam test split.
 
+### Milestone Log - 2025-01-10 (10:24)
+- **Focus**: refactor: optimize TF-IDF vectorization parameters
+- **Technical Summary**: Configured max_features=3000, ngram_range=(1,2), stop_words='english'.
+
