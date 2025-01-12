@@ -298,3 +298,7 @@ This document tracks NLP tokenization experiments, n-gram feature extraction ben
 - **Focus**: perf: vectorize confusion matrix evaluation pipeline
 - **Technical Summary**: Optimized evaluation metrics computation for binary spam classification.
 
+### Milestone Log - 2025-01-12 (19:11)
+- **Focus**: docs: document decision threshold tuning for spam filter
+- **Technical Summary**: Set decision threshold to 0.65 to minimize false positives on legitimate emails.
+
