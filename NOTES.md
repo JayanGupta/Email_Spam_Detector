@@ -434,3 +434,7 @@ This document tracks engineering milestones, experiment logs, parameter optimiza
 - **Focus**: docs: add notes on text preprocessing and stemming
 - **Technical Summary**: Integrated PorterStemmer and regex tokenization for raw email text.
 
+### Milestone Log - 2025-01-24 (11:30)
+- **Focus**: perf: vectorize confusion matrix calculation
+- **Technical Summary**: Optimized evaluation pipeline for binary classification.
+
