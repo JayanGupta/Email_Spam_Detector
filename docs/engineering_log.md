@@ -434,3 +434,7 @@ This document tracks NLP tokenization experiments, n-gram feature extraction ben
 - **Focus**: docs: add notes on text preprocessing and stemming
 - **Technical Summary**: Integrated PorterStemmer and regex tokenization for raw message bodies.
 
+### Milestone Log - 2025-02-18 (10:44)
+- **Focus**: perf: vectorize confusion matrix evaluation pipeline
+- **Technical Summary**: Optimized evaluation metrics computation for binary spam classification.
+
