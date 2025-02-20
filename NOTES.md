@@ -550,3 +550,7 @@ This document tracks engineering milestones, experiment logs, parameter optimiza
 - **Focus**: refactor: optimize TF-IDF vectorization parameters
 - **Technical Summary**: Configured max_features=3000, ngram_range=(1,2), stop_words='english'.
 
+### Milestone Log - 2025-02-20 (10:21)
+- **Focus**: docs: add notes on text preprocessing and stemming
+- **Technical Summary**: Integrated PorterStemmer and regex tokenization for raw email text.
+
